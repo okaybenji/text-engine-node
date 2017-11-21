@@ -1,0 +1,14 @@
+{
+  "name": "text-engine-node",
+  "version": "0.0.1",
+  "description": "Text adventure engine for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benji Kay",
+  "license": "ISC",
+  "dependencies": {
+    "text-engine": "^1.0.1"
+  }
+}
