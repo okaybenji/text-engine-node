@@ -9,6 +9,6 @@
   "author": "Benji Kay",
   "license": "ISC",
   "dependencies": {
-    "text-engine": "^1.0.1"
+    "text-engine": "git://github.com/okaybenji/text-engine.git#environmental"
   }
 }
